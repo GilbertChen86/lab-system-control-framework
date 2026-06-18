@@ -1,6 +1,6 @@
 # **Lab System Control Framework 实验室体系控制架构**
-**作者：**Gilbert Chen
-**日期：**2026-06-18
+**作者**：Gilbert Chen
+**日期**：2026-06-18
 
 **A System Control Prototype for Laboratory Management Systems 实验室管理体系系统控制原型机**
 
