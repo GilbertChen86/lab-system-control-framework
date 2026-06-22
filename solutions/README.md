@@ -1,4 +1,5 @@
 # **Lab System Control Framework 实验室体系控制架构**
+
 **作者**：Gilbert Chen
 **日期**：2026-06-22
 
